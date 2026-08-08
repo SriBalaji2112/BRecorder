@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SriBalaji2112/BRecorder/main/BRecorder/assets/icon.ico" alt="BRecorder Logo" width="120" />
+  <img src="[https://raw.githubusercontent.com/SriBalaji2112/BRecorder/main/BRecorder/assets/icon.ico](https://raw.githubusercontent.com/SriBalaji2112/BRecorder/refs/heads/main/BRecorder/assets/bee_icon.ico)" alt="BRecorder Logo" width="120" />
   <h1>BRecorder</h1>
   <p><strong>Advanced, High-Performance Screen & Application Recording Engine</strong></p>
 
